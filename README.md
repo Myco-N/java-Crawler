@@ -5,8 +5,6 @@
 
 ###### 欢迎关注公众号，开启和我的交流
 
-![weix](https://www.cnblogs.com/images/cnblogs_com/LexMoon/1391533/o_qrcode_for_gh_f3457f4f73a1_258.jpg)
-
 ## [模拟登录类](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%A8%A1%E6%8B%9F%E7%99%BB%E5%BD%95) 
 ## [数据爬取类](https://github.com/CasterWx/java-Crawler/tree/master/src/%E7%88%AC%E8%99%AB/%E6%95%B0%E6%8D%AE%E8%A7%A3%E6%9E%90)
 ####  关于爬虫代码讲解可以参考[我的博客](http://www.cnblogs.com/LexMoon/),代码编写时间均在2017年下半年，爬虫相应网站可能会有所更新，所以爬虫会出现些问题，如果发现了问题可以联系我，我会抽空重新写一下，当然也欢迎有人帮我改改代码Bug。
